@@ -7,38 +7,24 @@ import org.testng.annotations.Test;
 import reporting.TestLogger;
 public class TestHomePage extends MainPage{
     MainPage mainPage;
-
     @BeforeMethod
     public void initElements() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
         }.getClass().getEnclosingMethod().getName()));
         mainPage = PageFactory.initElements(driver, MainPage.class);
     }
-
-    //You have to do from  bellow line
-
-
     @Test
-    public void testviewWareHouseSavings() { //need to fix its an example
+    public void testViewSantanderLogo() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
         }.getClass().getEnclosingMethod().getName()));
-        mainPage.checkviewWareHouseSavings(); //need to fix its an example
+        mainPage.checkViewSantanderLogo();
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    @Test
+    public void testSearchBox() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkSearchBox();
+    }
 
 
 

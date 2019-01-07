@@ -7,7 +7,6 @@ import org.testng.annotations.Test;
 import reporting.TestLogger;
 public class TestHomePageFB extends MainPage{
     MainPage mainPage;
-
     @BeforeMethod
     public void initElements() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {

@@ -40,14 +40,15 @@ public class BaseUtil {
     public static WebDriverWait wait = null ; //explicit wait
     @BeforeMethod
     public void setup() throws MalformedURLException {
-        System.setProperty("webdriver.chrome.driver","C:\\Users\\nafas\\Desktop\\sohag\\ShohagAutomationNov2018\\Generic\\browser-driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\Manir\\Desktop\\PIIT\\SeleniumDownloads29Dec\\ChromeDriver\\chromedriver_win32\\chromedriver.exe");
         //setUpBrowserStack();
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         builder = new Actions(driver);
-        wait = new WebDriverWait(driver,5);
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        driver.get("https://www.costco.com/");
+        wait = new WebDriverWait(driver,10);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        //driver.get("https://www.costco.com/");
+        driver.get("https://www.santanderbank.com/us/personal");
         driver.manage().window().fullscreen();
     }
 
@@ -125,7 +126,7 @@ public class BaseUtil {
     public void waitToBeVisible(String xpathLocator){
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpathLocator)));
     }
-    public void setUpBrowserStack() throws MalformedURLException {
+  /*  public void setUpBrowserStack() throws MalformedURLException {
         DesiredCapabilities cap = new DesiredCapabilities();
         cap.setCapability("browser","chrome");
         cap.setCapability("browser_version","68.0");
@@ -135,6 +136,7 @@ public class BaseUtil {
         URL serverUrl = new URL(browserStackUrl);
         driver = new RemoteWebDriver(serverUrl,cap);
     }
+    */
     public static String convertToString(String st){
         String splitString ;
         splitString = StringUtils.join(StringUtils.splitByCharacterTypeCamelCase(st), ' ');
@@ -162,3 +164,5 @@ public class BaseUtil {
     }
 
 }
+//C:\Users\Manir\Desktop\PIIT\SeleniumDownloads29Dec\ChromeDriver\chromedriver_win32\chromedriver.exe
+//C:\Users\nafas\Desktop\sohag\ShohagAutomationNov2018\Generic\browser-driver\chromedriver.exe
