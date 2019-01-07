@@ -25,9 +25,35 @@ public class TestHomePageFB extends MainPage{
         mainPage.checkviewWareHouseSavings(); //need to fix its an example
     }
 
+    @Test
+    public void testviewWareHouseS() { //need to fix its an example
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkviewWareHouseSavings(); //need to fix its an example
+    }
+    @Test
+    public void testview() { //need to fix its an example
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkviewWareHouseSavings(); //need to fix its an example
+    }
+    @Test
+    public void testviewjjjj() { //need to fix its an example
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkviewWareHouseSavings(); //need to fix its an example
+    }
 
-
-
+    public void testviejjj() { //need to fix its an example
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkviewWareHouseSavings(); //need to fix its an example
+    }
+    public void testviejjj() { //need to fix its an example
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkviewWareHouseSavings(); //need to fix its an example
+    }
 
 
 
