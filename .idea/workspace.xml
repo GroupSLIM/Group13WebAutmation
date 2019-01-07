@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="760c99b1-2653-470f-b539-ce7d726d54cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.8.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/client-combined-3.141.59-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/client-combined-3.141.59.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-exec-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/guava-25.0-jre.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/okhttp-3.11.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/okio-1.14.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-server-standalone-3.141.59.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/src/test/java/testHomePage/TestHomePageFB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/java/testHomePage/TestHomePageFB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Santanderbank/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/Extent-Report/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Santanderbank/src/test/resources/runnner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+            <state relative-caret-position="17">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-248">
+            <state relative-caret-position="2244">
               <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,16 +56,16 @@
         <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/resources/TestRunner">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,9 +110,9 @@
         <option value="$PROJECT_DIR$/Facebook/src/test/java/testHomePage/TestHomePageFB.java" />
         <option value="$PROJECT_DIR$/Santanderbank/src/test/resources/TestRunner" />
         <option value="$PROJECT_DIR$/Santanderbank/src/test/resources/runnner" />
-        <option value="$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" />
         <option value="$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java" />
+        <option value="$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java" />
       </list>
     </option>
   </component>
@@ -131,12 +125,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Santanderbank" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -151,8 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,122 +147,16 @@
               <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="browser-driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Santanderbank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Santanderbank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Santanderbank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Santanderbank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Santanderbank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Santanderbank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Santanderbank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Santanderbank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testHomePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
-              <item name="Santanderbank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546867997921" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546891766893" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -308,9 +189,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestHomePage.testSearchBox">
-    <configuration name="TestHomePageFB (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Facebook" />
+  <component name="RunManager" selected="TestNG.TestHomePage.testCreditCards">
+    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Santanderbank" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testHomePage.*" />
@@ -318,15 +199,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testHomePage" />
-      <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePageFB" />
+      <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePage" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePageFB" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TMobile" />
+    <configuration name="TestHomePage.testCreditCards" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Santanderbank" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testHomePage.*" />
@@ -334,15 +215,17 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testHomePage" />
-      <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePageFB" />
+      <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePage" />
+      <option name="METHOD_NAME" value="testCreditCards" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePageFB.testviewWareHouseSavings" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TMobile" />
+    <configuration name="TestHomePage.testSantanderLogo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Santanderbank" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testHomePage.*" />
@@ -350,8 +233,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testHomePage" />
-      <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePageFB" />
-      <option name="METHOD_NAME" value="testviewWareHouseSavings" />
+      <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePage" />
+      <option name="METHOD_NAME" value="testSantanderLogo" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -397,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestHomePage.testCreditCards" />
+        <item itemvalue="TestNG.TestHomePage" />
+        <item itemvalue="TestNG.TestHomePage.testSantanderLogo" />
         <item itemvalue="TestNG.TestHomePage.testSearchBox" />
         <item itemvalue="TestNG.TestHomePage.testViewSantanderLogo" />
-        <item itemvalue="TestNG.TestHomePageFB (1)" />
-        <item itemvalue="TestNG.TestHomePageFB.testviewWareHouseSavings" />
-        <item itemvalue="TestNG.TestHomePageFB" />
       </list>
     </recent_temporary>
   </component>
@@ -419,12 +302,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMainPage - 2019.01.05 at 22h 10m 57s.xml">
-      <configuration name="TestMainPage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage - 2019.01.05 at 22h 52m 03s.xml">
-      <configuration name="TestHomePage" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestHomePage - 2019.01.05 at 22h 53m 03s.xml">
       <configuration name="TestHomePage" configurationId="TestNG" />
     </history-entry>
@@ -445,6 +322,15 @@
     </history-entry>
     <history-entry file="TestHomePage_testViewSantanderLogo - 2019.01.07 at 08h 27m 25s.xml">
       <configuration name="TestHomePage.testViewSantanderLogo" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testSearchBox - 2019.01.07 at 08h 33m 47s.xml">
+      <configuration name="TestHomePage.testSearchBox" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testSantanderLogo - 2019.01.07 at 14h 41m 44s.xml">
+      <configuration name="TestHomePage.testSantanderLogo" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage - 2019.01.07 at 15h 01m 44s.xml">
+      <configuration name="TestHomePage" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -473,7 +359,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.19667171" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.12481089" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -614,23 +500,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/resources/runnner">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/resources/TestRunner">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/resources/runnner" />
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248">
+        <state relative-caret-position="2244">
           <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -640,20 +513,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java">
+    <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/resources/TestRunner">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        <state relative-caret-position="255">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java">
+    <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
