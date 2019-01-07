@@ -17,6 +17,10 @@ public class MainPage extends BaseUtil {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         viewWareHouseSavings.click(); //example need to fix
     }
+    public void checkviewWareHouSings(){ //example need to fix
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        viewWareHouseSavings.click(); //example need to fix
+    }
 
 
 
