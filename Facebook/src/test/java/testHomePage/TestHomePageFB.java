@@ -31,7 +31,12 @@ public class TestHomePageFB extends MainPage{
         }.getClass().getEnclosingMethod().getName()));
         mainPage.checkviewWareHouseSavings(); //need to fix its an example
     }
-
+    @Test
+    public void testview() { //need to fix its an example
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkviewWareHouseSavings(); //need to fix its an example
+    }
 
 
 
