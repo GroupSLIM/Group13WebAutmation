@@ -191,7 +191,12 @@ public class TestMainPage extends MainPage {
         }.getClass().getEnclosingMethod().getName()));
         mainPage.pLogo();
     }
-
+    @Test
+    public void pLogo() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.pLogo();
+    }
 
 
 }
