@@ -86,39 +86,61 @@ public class MainPage extends BaseUtil {
         }.getClass().getEnclosingMethod().getName()));
         CreditCards.click();
     }
+    @FindBy(xpath = "//span[text()='Prosper and Thrive']")
+    public static WebElement ProsperAndThrive;
 
-
-
-   /* @FindBy(id = "warehouse-savings")//example, need to fix
-    public static WebElement viewWareHouseSavings;//example need to fix
-    // You will copy and add more
-
-    public void checkviewWareHouseSavings(){ //example need to fix
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        viewWareHouseSavings.click(); //example need to fix
+    public void checkProsperAndThrive() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        ProsperAndThrive.click();
     }
-    public void checkviewWareHouseSings(){ //example need to fix
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        viewWareHouseSavings.click(); //example need to fix
+    @FindBy(xpath = "//a[text() = 'ATM/Branch Locator']")
+    public static WebElement ATMBranchLocator;
+
+    public void checkATMBranchLocator() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        ATMBranchLocator.click();
     }
-    public void checkviewWareHouSings(){ //example need to fix
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        viewWareHouseSavings.click(); //example need to fix
+    @FindBy(xpath = "//a[@class='button01 trk-btn']")
+    public static WebElement FindALocationNearYou;
+
+    public void checkFindALocationNearYou() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        FindALocationNearYou.click();
     }
-    public void checkviewWareHoumanir(){ //example need to fix
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        viewWareHouseSavings.click(); //example need to fix
+    @FindBy(xpath = "//h4[text()='Contact Us']")
+    public static WebElement ContactUs;
+
+    public void checkContactUs() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        ContactUs.click();
     }
+    @FindBy(xpath = "//h4[text()='Privacy Policy']")
+    public static WebElement PrivacyPolicy;
 
-*/
+    public void checkPrivacyPolicy() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        PrivacyPolicy.click();
+    }
+    @FindBy(xpath = "//h4[text()='Terms of Use']")
+    public static WebElement TermsOfUse;
 
+    public void checkTermsOfUse() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        TermsOfUse.click();
+    }
+    @FindBy(xpath = "//h4[text()='Home']")
+    public static WebElement Home;
 
-
-
-
-
-
-
-
+    public void checkHome() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){
+        }.getClass().getEnclosingMethod().getName()));
+        Home.click();
+    }
 
 }

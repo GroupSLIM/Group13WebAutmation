@@ -73,6 +73,49 @@ public class TestHomePage extends MainPage{
         }.getClass().getEnclosingMethod().getName()));
         mainPage.checkCreditCards();
     }
+    @Test
+    public void testProsperAndThrive() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkProsperAndThrive();
+    }
+
+    @Test
+    public void testATMBranchLocator() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkATMBranchLocator();
+    }
+    @Test
+    public void testFindALocationNearYou() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkFindALocationNearYou();
+    }
+    @Test
+    public void testContactUs() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkContactUs();
+    }
+    @Test
+    public void testPrivacyPolicy() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkPrivacyPolicy();
+    }
+    @Test
+    public void testTermsOfUse() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkTermsOfUse();
+    }
+    @Test
+    public void testHome() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkHome();
+    }
 
 
 

@@ -2,13 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="760c99b1-2653-470f-b539-ce7d726d54cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$18.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/BaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/BaseUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Santanderbank/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/Extent-Report/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="-154">
+              <caret line="86" column="22" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,13 +55,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
+            <state relative-caret-position="170">
+              <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#6077#6078#0" expanded="true" />
-                <element signature="e#6111#6112#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -55,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/resources/TestRunner">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            <state relative-caret-position="136">
+              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -64,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="424">
+              <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,11 +174,10 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546891766893" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546930416958" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -189,8 +210,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestHomePage.testCreditCards">
-    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestHomePage.testHome">
+    <configuration name="TestHomePage.testATMBranchLocator" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Santanderbank" />
       <extension name="coverage">
         <pattern>
@@ -200,6 +221,26 @@
       </extension>
       <option name="PACKAGE_NAME" value="testHomePage" />
       <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePage" />
+      <option name="METHOD_NAME" value="testATMBranchLocator" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage.testContactUs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Santanderbank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testHomePage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testHomePage" />
+      <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePage" />
+      <option name="METHOD_NAME" value="testContactUs" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -224,7 +265,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.testSantanderLogo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHomePage.testFindALocationNearYou" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Santanderbank" />
       <extension name="coverage">
         <pattern>
@@ -234,7 +275,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="testHomePage" />
       <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePage" />
-      <option name="METHOD_NAME" value="testSantanderLogo" />
+      <option name="METHOD_NAME" value="testFindALocationNearYou" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -242,7 +283,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.testSearchBox" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHomePage.testHome" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Santanderbank" />
       <extension name="coverage">
         <pattern>
@@ -252,25 +293,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="testHomePage" />
       <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePage" />
-      <option name="METHOD_NAME" value="testSearchBox" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestHomePage.testViewSantanderLogo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Santanderbank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testHomePage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testHomePage" />
-      <option name="MAIN_CLASS_NAME" value="testHomePage.TestHomePage" />
-      <option name="METHOD_NAME" value="testViewSantanderLogo" />
+      <option name="METHOD_NAME" value="testHome" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -280,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestHomePage.testHome" />
+        <item itemvalue="TestNG.TestHomePage.testFindALocationNearYou" />
+        <item itemvalue="TestNG.TestHomePage.testATMBranchLocator" />
+        <item itemvalue="TestNG.TestHomePage.testContactUs" />
         <item itemvalue="TestNG.TestHomePage.testCreditCards" />
-        <item itemvalue="TestNG.TestHomePage" />
-        <item itemvalue="TestNG.TestHomePage.testSantanderLogo" />
-        <item itemvalue="TestNG.TestHomePage.testSearchBox" />
-        <item itemvalue="TestNG.TestHomePage.testViewSantanderLogo" />
       </list>
     </recent_temporary>
   </component>
@@ -302,24 +325,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHomePage - 2019.01.05 at 22h 53m 03s.xml">
-      <configuration name="TestHomePage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage_testviewWareHouseSavings - 2019.01.05 at 22h 53m 37s.xml">
-      <configuration name="TestHomePage.testviewWareHouseSavings" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePageFB_(1) - 2019.01.05 at 22h 59m 14s.xml">
-      <configuration name="TestHomePageFB (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage_testViewSantanderLogo - 2019.01.07 at 07h 36m 21s.xml">
-      <configuration name="TestHomePage.testViewSantanderLogo" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage_testViewSantanderLogo - 2019.01.07 at 07h 44m 10s.xml">
-      <configuration name="TestHomePage.testViewSantanderLogo" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage_testViewSantanderLogo - 2019.01.07 at 08h 09m 25s.xml">
-      <configuration name="TestHomePage.testViewSantanderLogo" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestHomePage_testViewSantanderLogo - 2019.01.07 at 08h 27m 25s.xml">
       <configuration name="TestHomePage.testViewSantanderLogo" configurationId="TestNG" />
     </history-entry>
@@ -332,10 +337,27 @@
     <history-entry file="TestHomePage - 2019.01.07 at 15h 01m 44s.xml">
       <configuration name="TestHomePage" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestHomePage_testCreditCards - 2019.01.07 at 15h 09m 56s.xml">
+      <configuration name="TestHomePage.testCreditCards" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testATMBranchLocator - 2019.01.08 at 01h 47m 12s.xml">
+      <configuration name="TestHomePage.testATMBranchLocator" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testContactUs - 2019.01.08 at 01h 50m 33s.xml">
+      <configuration name="TestHomePage.testContactUs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testATMBranchLocator - 2019.01.08 at 01h 51m 57s.xml">
+      <configuration name="TestHomePage.testATMBranchLocator" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testFindALocationNearYou - 2019.01.08 at 01h 53m 04s.xml">
+      <configuration name="TestHomePage.testFindALocationNearYou" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testHome - 2019.01.08 at 01h 54m 16s.xml">
+      <configuration name="TestHomePage.testHome" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24886535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -346,12 +368,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32569557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22258593" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -367,13 +389,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1581">
@@ -503,27 +518,32 @@
     <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/resources/runnner" />
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
+        <state relative-caret-position="170">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#6077#6078#0" expanded="true" />
-            <element signature="e#6111#6112#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/resources/TestRunner">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        <state relative-caret-position="136">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="424">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -532,8 +552,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="-154">
+          <caret line="86" column="22" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

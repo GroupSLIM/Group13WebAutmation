@@ -41,6 +41,7 @@ public class BaseUtil {
     @BeforeMethod
     public void setup() throws MalformedURLException {
         System.setProperty("webdriver.chrome.driver","C:\\Users\\Manir\\Desktop\\PIIT\\SeleniumDownloads29Dec\\ChromeDriver\\chromedriver_win32\\chromedriver.exe");
+        //C:\Users\nafas\Desktop\sohag\ShohagAutomationNov2018\Generic\browser-driver\chromedriver.exe
         //setUpBrowserStack();
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
