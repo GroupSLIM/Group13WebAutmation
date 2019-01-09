@@ -24,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/target/classes/homePage/MainPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Santanderbank/target/test-classes/testHomePage/TestHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,26 +68,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="252">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+
         <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/resources/TestRunner">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+
+        <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+
         <entry file="file://$PROJECT_DIR$/Santanderbank/src/main/java/homePage/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="424">
               <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+
+        <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/homePage/MainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,10 +165,18 @@
       <select />
     </treeState>
   </component>
+
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-5" />
     <option name="width" value="1361" />
     <option name="height" value="735" />
+
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="120" />
+    <option name="y" value="-20" />
+    <option name="width" value="1940" />
+    <option name="height" value="1040" />
+
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,6 +191,18 @@
             <path>
               <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
+
+            </path>
+            <path>
+              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
+              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group13WebAutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group13WebAutmation" type="462c0819:PsiDirectoryNode" />
+              <item name="Santanderbank" type="462c0819:PsiDirectoryNode" />
+
             </path>
           </expand>
           <select />
@@ -182,6 +217,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -360,6 +396,11 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24886535" />
+
+    <frame x="0" y="-1" width="1920" height="1054" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24892704" />
+
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,7 +414,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22258593" />
+
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890365" />
+
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -381,7 +426,11 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
+
       <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.12481089" />
+
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.10246781" />
+
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -436,16 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/homePage/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TMobile/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -453,6 +492,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -461,6 +501,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TMobile/src/main/java/homePage/MainPage.java">
+
+    <entry file="file://$PROJECT_DIR$/Santanderbank/pom.xml">
+
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
@@ -533,6 +576,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -544,16 +588,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
           <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/resources/runnner">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/testHomePage/TestHomePageFB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/Santanderbank/src/test/java/testHomePage/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-154">
           <caret line="86" column="22" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
+
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/homePage/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
