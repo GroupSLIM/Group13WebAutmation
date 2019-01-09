@@ -7,39 +7,115 @@ import org.testng.annotations.Test;
 import reporting.TestLogger;
 public class TestHomePage extends MainPage{
     MainPage mainPage;
-
     @BeforeMethod
     public void initElements() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
         }.getClass().getEnclosingMethod().getName()));
         mainPage = PageFactory.initElements(driver, MainPage.class);
     }
-
-    //You have to do from  bellow line
-
-
     @Test
-    public void testviewWareHouseSavings() { //need to fix its an example
+    public void testSantanderLogo() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
         }.getClass().getEnclosingMethod().getName()));
-        mainPage.checkviewWareHouseSavings(); //need to fix its an example
+        mainPage.checkSantanderLogo();
+    }
+    @Test
+    public void testSearchBox() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkSearchBox();
+    }
+    @Test
+    public void testPersonal() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkPersonal();
+    }
+    @Test
+    public void testBusiness() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkBusiness();
+    }
+    @Test
+    public void testCommercial() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkCommercial();
+    }
+    @Test
+    public void testAbout() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkAbout();
+    }
+    @Test
+    public void testSantanderCommercialBanking() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkSantanderCommercialBanking();
+    }
+    @Test
+    public void testBorrowing() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkBorrowing();
+    }
+    @Test
+    public void testBanking() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkBanking();
+    }
+    @Test
+    public void testCreditCards() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkCreditCards();
+    }
+    @Test
+    public void testProsperAndThrive() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkProsperAndThrive();
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    @Test
+    public void testATMBranchLocator() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkATMBranchLocator();
+    }
+    @Test
+    public void testFindALocationNearYou() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkFindALocationNearYou();
+    }
+    @Test
+    public void testContactUs() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkContactUs();
+    }
+    @Test
+    public void testPrivacyPolicy() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkPrivacyPolicy();
+    }
+    @Test
+    public void testTermsOfUse() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkTermsOfUse();
+    }
+    @Test
+    public void testHome() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkHome();
+    }
 
 
 
