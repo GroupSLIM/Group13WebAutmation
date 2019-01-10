@@ -11,7 +11,7 @@
     <parameter name="browserVersion" value="60.0"/>
     <parameter name="url" value="https://www.facebook.com"/>
 
-    <test name = "Search ">
+    <test name = "Facebook Test">
         <classes>
             <class name="testHomePage.TestHomePageFB"/>
             <!--<class name="menu.MenuPage"/>-->
