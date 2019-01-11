@@ -39,13 +39,13 @@ public class BaseUtil {
     public static Actions builder = null; //hoover over
     public static WebDriverWait wait = null ; //explicit wait
     @BeforeMethod
-    public void setup() throws MalformedURLException {
-        System.setProperty("webdriver.chrome.driver","/home/lobid/Downloads/chromedriver");
+    public void setup() throws MalformedURLException, InterruptedException {
+        System.setProperty("webdriver.chrome.driver", "/home/lobid/Downloads/chromedriver");
         //setUpBrowserStack();
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         builder = new Actions(driver);
-        wait = new WebDriverWait(driver,5);
+        wait = new WebDriverWait(driver, 5);
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         driver.get("https://www.facebook.com");
         driver.manage().window().fullscreen();
@@ -90,7 +90,7 @@ public class BaseUtil {
         if (result.getStatus() == ITestResult.FAILURE) {
             captureScreenshot(driver, result.getName());
         }
-        driver.quit();
+        //driver.quit();
     }
 
     public static void captureScreenshot(WebDriver driver, String screenshotName){
